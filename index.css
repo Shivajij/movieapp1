@@ -1,0 +1,21 @@
+
+#search{
+    margin: 50px;
+    height: 20px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+#data > div{
+    display: flex;
+    height: 600px;
+    align-items: center;
+}
+img{
+    width: 70%;
+    height: 590px;
+}
+button{
+    border-radius: 20px;
+}
